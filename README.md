@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=IoT%20Engineer%20%7C%20Bot%20Architect&descSize=24&descAlign=50&descAlignY=68&theme=moonlight" alt="header" style="width:100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=IoT%20Engineer%20%7C%20Bot%20Architect&descSize=24&descAlign=50&descAlignY=68&theme=moonlight" alt="header" style="width:60%"/>
 </div>
 
 ---
