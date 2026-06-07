@@ -1,8 +1,8 @@
-<h1 align="center">Bonjour 🤠 What's up?</h1>
+<h1 align="center">Hola 🤠 What's up?</h1>
 
 ###
 
-<p align="center">Hola! , My Name Is Arya</p>
+<h2 align="center">I'm Arya Mardani</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -58,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning NetworkSec<br>🎯 Goals: Wha?<br>🎲 Fun fact: I'm Just A Chill Developer</p>
 </div>
 
 ###
@@ -77,7 +78,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph.svg">
 </picture>
@@ -85,8 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/languages-output/languages.svg" height="150" alt="languages graph"  />
+![](https://github-profile-trophy.vercel.app/?username=AryaMardaniDev&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ###
