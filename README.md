@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 🕊️ What's up?</h1>
+<h1 align="center">Bonjour 🤠 What's up?</h1>
 
 ###
 
@@ -77,16 +77,16 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryamardani/aryamardani/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryamardani/aryamardani/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryamardani/aryamardani/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryamardani/aryamardani/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/aryamardani/aryamardani/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/aryamardanidev/aryamardanidev/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
