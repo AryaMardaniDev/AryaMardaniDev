@@ -113,10 +113,6 @@ I started writing code four years ago, and since then I have built websites, eng
   </a>
 </div>
 
-<div align="center">
-  <h3>📧 Email Me</h3>
-  [Your Email Here]
-</div>
 
 ---
 
@@ -127,6 +123,6 @@ I started writing code four years ago, and since then I have built websites, eng
 <div align="center">
   <p>
     <b>⭐ If you like my work, don't forget to star my repositories!</b><br>
-    <sub>Last Updated: 2024</sub>
+    <sub>Oi Oi Baby🍾</sub>
   </p>
 </div>
