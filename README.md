@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer&descSize=25&descAlign=50&descAlignY=70&theme=aura" alt="header" style="width:100%"/>
-</div>
-
----
-
-<h1 align="center">👋 Welcome to My Digital Space</h1>
+<h1 align="center">Hola 🤠, I'm Arya</h1>
 
 <h3 align="center">
-  <b>Arya Mardani</b> | Full-Stack Developer | IoT Specialist | Network Security Enthusiast
+  <b>Code tamer by day, IoT wrangler by night.</b>
 </h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=Code%20wizardry%20%26%20IoT%20magic&descSize=25&descAlign=50&descAlignY=70&theme=aura" alt="header" style="width:100%"/>
+</div>
 
 ---
 
@@ -36,7 +34,21 @@
 
 ---
 
-## 💻 Tech Stack & Tools
+## � GitHub Statistics
+
+<div align="center">
+  <h3>Performance Metrics</h3>
+  
+  ![](https://github-readme-stats.shion.dev/api?username=AryaMardaniDev&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  
+  ![](https://streak-stats.demolab.com/?user=AryaMardaniDev&theme=aura&hide_border=false)<br/>
+  
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaMardaniDev&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+---
+
+## �💻 Tech Stack & Tools
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
@@ -102,26 +114,7 @@
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <h3>GitHub Trophies</h3>
-  
-  ![](https://github-profile-trophy.vercel.app/?username=AryaMardaniDev&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
----
-
-## ✨ Top Contributed Repositories
-
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=AryaMardaniDev&limit=5&theme=aura&combine_all_yearly_contributions=true)
-</div>
-
----
-
-## 🎵 Currently Listening On Spotify
+##  Currently Listening On Spotify
 
 <div align="center">
   <h3>Recently Played Tracks</h3>
@@ -176,4 +169,4 @@
     <b>⭐ If you like my work, don't forget to star my repositories!</b><br>
     <sub>Last Updated: 2024</sub>
   </p>
-</div>
+</div>  
