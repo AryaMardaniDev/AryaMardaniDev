@@ -1,6 +1,5 @@
 <h1 align="center">Hola 🤠 What's up?</h1>
 
-###
 
 <h2 align="center">I'm Arya Mardani</h2>
 
