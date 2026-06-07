@@ -25,9 +25,9 @@ I started writing code four years ago, and since then I have built websites, eng
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AryaMardaniDev&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=GreatSaadi&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
   <img width="20" />
-  <img src="https://streak-stats.demolab.com/?user=AryaMardaniDev&theme=aura&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=GreatSaadi&theme=aura&hide_border=false" alt="GitHub streak stats" />
 </div>
 
 ---
@@ -100,7 +100,7 @@ I started writing code four years ago, and since then I have built websites, eng
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://t.me/ImAryaDev" target="_blank">
+  <a href="https://t.me/GreatSaadi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="50" alt="telegram logo" title="Message me on Telegram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -108,7 +108,7 @@ I started writing code four years ago, and since then I have built websites, eng
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="50" alt="instagram logo" title="Follow on Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AryaMardaniDev" target="_blank">
+  <a href="https://github.com/GreatSaadi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="60" height="50" alt="github logo" title="Visit GitHub"/>
   </a>
 </div>
