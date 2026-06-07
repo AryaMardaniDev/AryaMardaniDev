@@ -109,7 +109,7 @@ I started writing code four years ago, and since then I have built websites, eng
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/GreatSaadi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="60" height="50" alt="github logo" title="Visit GitHub"/>
+    <img src="https://avatars.githubusercontent.com/u/291423046?v=4" width="60" height="50" alt="github logo" title="Visit GitHub"/>
   </a>
 </div>
 
